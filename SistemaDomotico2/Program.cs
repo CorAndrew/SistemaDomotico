@@ -27,7 +27,7 @@ namespace SistemaDomotico2
                 }
                 else
                 {
-                    Console.WriteLine($"[Allarme] Stato: Attivato");
+                    Console.WriteLine($"Stato: Attivato");
                 }
             }
 
@@ -41,7 +41,7 @@ namespace SistemaDomotico2
                 }
                 else
                 {
-                    Console.WriteLine($"[Allarme] Stato: Disattivato");
+                    Console.WriteLine($"Stato: Disattivato");
                 }
             }
         }
